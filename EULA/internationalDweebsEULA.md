@@ -52,4 +52,4 @@ Thank you for your cooperation and enjoy your time in International Dweebs!
 
 ### last updated: 2024/04/11 @5:10pm (y/m/d)
 
-you may find a copy of the EULA @: [will be updated immediately]
+you may find a copy of the EULA @: [https://github.com/vulbyte/internationalDweebs/blob/main/EULA/internationalDweebsEULA.md](https://github.com/vulbyte/internationalDweebs/blob/main/EULA/internationalDweebsEULA.md)
